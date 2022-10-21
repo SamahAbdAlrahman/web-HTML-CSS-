@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family:' Montserrat' ,sans-serif;
+    text-align: center;
+}
+
+p{
+    font-family: 'Nunito',sans-serif;
+    font-size: 15px;
+    line-height: 30px;
+    color: #6c757d;
+}
+
+.r-p{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.bg-sec{
+    background: #f8f9fa;
+}
+/* service section*/
+.card,.card-header{
+    background: #f8f9fa  !important;
+}
+.card-header{
+    border: none !important;
+    
+}
+.card{
+    border-style: ridge;
+}
+.services-class .card-header i{
+    font-size: 50px;
+    margin-left: 170px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.service-border{
+    height: 2px;
+    width: 40px;
+    margin: 15px auto;
+    background: #e65f78;
+}
+.container text-center{
+    overflow: hidden;
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+.col h2, p {
+    text-align: center;
+}
+.container  .col-lg-4{
+width: 30%;
+float: left;
+overflow: hidden;
+
+margin-left: 10px;}
